@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453555053888",
+    "firebase_url": "https://instagramclonefirebasekotlin.firebaseio.com",
+    "project_id": "instagramclonefirebasekotlin",
+    "storage_bucket": "instagramclonefirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453555053888:android:5f1a623a6977e28e5c46a5",
+        "android_client_info": {
+          "package_name": "com.kaankizilagil.instagramclonefirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453555053888-gae355j2m1k3j531d2gk0vp1kkpccrps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mGfgTF6rF9f-Mu0sLb_wiP2OI4bbzDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453555053888-gae355j2m1k3j531d2gk0vp1kkpccrps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
